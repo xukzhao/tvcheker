@@ -11,5 +11,6 @@
   "output": "available_channels.txt",
   "max_retries": 3,
   "log_level": "verbose",
-  "output_dir": "public"
+  "output_dir": "public",
+  "secure_connect": false
 }
