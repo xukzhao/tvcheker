@@ -1,0 +1,15 @@
+{
+  "file_path": "tv.txt",
+  "urls": [
+    "",
+    ""
+  ],
+  "url_file": "urls.txt",
+  "groups_file": "groups.json",
+  "concurrency": 15,
+  "timeout": 30,
+  "output": "available_channels.txt",
+  "max_retries": 3,
+  "log_level": "verbose",
+  "output_dir": "public"
+}
