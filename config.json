@@ -6,11 +6,13 @@
   ],
   "url_file": "urls.txt",
   "groups_file": "groups.json",
-  "concurrency": 15,
+  "concurrency": 20,
   "timeout": 30,
-  "output": "available_channels.txt",
+  "output": "out.txt",
   "max_retries": 3,
   "log_level": "verbose",
   "output_dir": "public",
-  "secure_connect": false
+  "secure_connect": false,
+  "ffprobe_mode": "only",
+  "global_timeout": 120
 }
