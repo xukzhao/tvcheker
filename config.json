@@ -13,6 +13,6 @@
   "log_level": "verbose",
   "output_dir": "public",
   "secure_connect": false,
-  "ffprobe_mode": "only",
+  "ffprobe_mode": "disable",
   "global_timeout": 120
 }
